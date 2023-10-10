@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dilaf>
+	<item>
+		<forme></forme>
+		<phon></phon>
+		<compo_ba></compo_ba>
+		<compo_fr></compo_fr>
+		<bloc>
+			<cat></cat>
+			<sens>
+				<francais></francais>
+				<exemple>
+					<ba></ba>
+					<fr></fr>
+				</exemple>
+			</sens>
+		</bloc>
+	</item>
+</dilaf>

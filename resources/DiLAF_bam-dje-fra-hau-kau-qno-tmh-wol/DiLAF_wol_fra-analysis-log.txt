@@ -1,0 +1,47 @@
+Début de l'analyse du dictionnaire
+1000 nettalin analysés
+1000 misaal analysés
+2000 nettalin analysés
+1000 sayu_tekki analysés
+1000 dog analysés
+1000 mbirmi analysés
+1000 tëggin analysés
+1000 xeet analysés
+1000 tekki analysés
+1000 nettalin analysés
+3000 nettalin analysés
+2000 sayu_tekki analysés
+2000 misaal analysés
+2000 dog analysés
+2000 mbirmi analysés
+2000 tëggin analysés
+2000 xeet analysés
+1000 maas analysés
+4000 nettalin analysés
+3000 sayu_tekki analysés
+3000 dog analysés
+3000 mbirmi analysés
+3000 tëggin analysés
+3000 xeet analysés
+3000 misaal analysés
+5000 nettalin analysés
+2000 tekki analysés
+2000 nettalin analysés
+6000 nettalin analysés
+4000 sayu_tekki analysés
+4000 dog analysés
+4000 mbirmi analysés
+4000 tëggin analysés
+4000 xeet analysés
+4000 misaal analysés
+7000 nettalin analysés
+2000 maas analysés
+3000 tekki analysés
+3000 nettalin analysés
+8000 nettalin analysés
+5000 sayu_tekki analysés
+Fin de l'analyse du dictionnaire
+Début de l'écriture du résultat
+Use of uninitialized value in concatenation (.) or string at /opt/www/html-ssl/ipolex/pl/dictionary_analysis.pl line 164.
+Use of uninitialized value in concatenation (.) or string at /opt/www/html-ssl/ipolex/pl/dictionary_analysis.pl line 198.
+Fin de l'écriture du résultat

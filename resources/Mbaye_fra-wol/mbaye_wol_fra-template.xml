@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<database toolboxdatabasetype="" toolboxversion="" toolboxwrite="" wrap="">
+  <lexGroup>
+    <lex/>
+    <uttW/>
+    <catWGroup>
+      <catW/>
+      <clasW/>
+    </catWGroup>
+    <defWGroup>
+      <defW/>
+      <srcDW/>
+    </defWGroup>
+    <tradFlexGroup>
+      <tradFlex/>
+      <catF/>
+    </tradFlexGroup>
+    <phrWGroup>
+      <phrW/>
+      <tradPhrW/>
+      <fsPhrW/>
+    </phrWGroup>
+    <aut/>
+    <dat/>
+    <exDerWGroup>
+      <exDerW/>
+    </exDerWGroup>
+    <cmt/>
+    <autStat/>
+    <synW/>
+    <homW/>
+    <varW/>
+    <srcLW/>
+  </lexGroup>
+</database>

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dilaf src="bam" trg="fra" version="0.127" datecreation="29/04/2014">
+
+<!--item id="a_ka_c_a_ra1">
+    <forme usage="Banan">a ka c'a ra</forme>
+    <forme_tons>à ka c'a ra</forme_tons>
+    <cat>expr.adv.</cat>
+    <bloc>
+	  <sens id="a_ka_c_a_ra1_1">
+        <francais>probablement, sans doute</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="a_ka_c_a_rɔ1">
+    <forme>a ka c'a rɔ</forme>
+    <forme_tons>à ka c'a rɔ</forme_tons>
+    <cf>
+		<forme>a ka ca a rɔ</forme>
+		<forme_tons>à ka ca à rɔ</forme_tons>
+	</cf>
+    <compo_fr>c'est bcp-ça-endroit</compo_fr>
+    <cat>expr.adv.</cat>
+    <bloc>
+	  <sens id="a_ka_c_a_rɔ1_1">
+        <francais>probablement, sans doute</francais>
+      </sens>
+	</bloc>
+</item-->
+
+<item id="akara1">
+    <forme non_usage="Bɛlɛkɔ, Banan">akara</forme>
+    <forme_tons>akara</forme_tons>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="akara1_1">
+        <francais>beignet de haricot</francais>
+      </sens>
+	</bloc>
+</item>
+
+<!--item id="ala1">
+    <forme>ala</forme>
+    <forme_tons>ala</forme_tons>
+    <cf cible="ngala1_1">
+		<forme>ngala1_</forme>
+		<forme_tons>ngala</forme_tons>
+	</cf>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="ala1_1">
+        <francais>Dieu (bénédictions, nombreuses expressions...)</francais>
+        <exemple>
+          <ba>Ala k' i dɛmɛ !</ba>
+          <ba_tons>Ala k' ǐ dɛ̀mɛ !</ba_tons>
+          <fr>Que Dieu t'aide !</fr>
+        </exemple>
+        <exemple>
+          <ba>Ala maa i dɛmɛna !</ba>
+          <ba_tons>Ala maa i dɛ̀mɛ̀na !</ba_tons>
+          <fr>Que Dieu t'aide !</fr>
+        </exemple>
+        <exemple>
+          <ba>ni Ala sɔ nna.</ba>
+          <ba_tons>ni Ala sɔ̀ nna.</ba_tons>
+          <fr>Si Dieu le veut</fr>
+        </exemple>
+        <exemple>
+          <ba>... Ala den !</ba>
+          <ba_tons>... Ala den !</ba_tons>
+          <fr>exclamation en cas de malheur</fr>
+        </exemple>
+        <exemple>
+          <ba>Ala sago, aw sago !</ba>
+          <ba_tons>Ala sàgo, aw sàgo !</ba_tons>
+          <fr>Je m'en remets à Dieu et à vous ! ('volonté de Dieu, volonté de vous', paroles de conclusion dans les palabres ; l'intervenant s'en remet à l'auditoire)</fr>
+        </exemple>
+        <exemple>
+          <ba>Ala kibaro !</ba>
+          <ba_tons>Ala kìbàro !</ba_tons>
+          <fr>{ar : Dieu est grand ?} (exclamation de surprise admirative, de satisfaction commune)</fr>
+        </exemple>
+        <exemple>
+          <ba>n bɛ Ala minɛ</ba>
+          <ba_tons>n bɛ Ala mìnɛ</ba_tons>
+          <fr>je m'en remets à Dieu (dans une épreuve, une injustice)</fr>
+        </exemple>
+        <exemple>
+          <ba>ni Ala farala n kan</ba>
+          <ba_tons>ni Ala fàràla n kàn</ba_tons>
+          <fr>si Dieu m'aide... (si Dieu s'ajoute à moi)</fr>
+        </exemple>
+		<expression id="Ala_ni1">
+			<forme>Ala ni</forme>
+			<forme_tons>Ala ni</forme_tons>
+			<francais>indique la grandeur, l'excellence de quelque chose</francais>
+			<exemple>
+				<ba>Ala ni tiɲɛ</ba>
+				<ba_tons>Ala ni tìɲɛ</ba_tons>
+				<fr>authentique, vrai de vrai...</fr>
+			</exemple>
+			<exemple>
+				<ba>nin ye jamanaden Ala ni tiɲɛ ye</ba>
+				<ba_tons>nìn ye jàmànàden Ala ni tìɲɛ ye</ba_tons>
+				<fr>celui-ci est un vrai fils du pays</fr>
+			</exemple>
+			<exemple>
+				<ba>Ala ni a cɛɲa kosɔn...</ba>
+				<ba_tons>Ala ni à cɛ̀ɲa kosɔ̀n...</ba_tons>
+				<fr>à cause de sa grande beauté...</fr>
+			</exemple>
+		</expression>
+		<expression id="Ala_kosɔn1">
+			<forme>Ala kosɔn</forme>
+			<forme_tons>Ala kosɔ̀n</forme_tons>
+			<francais>pour (l'amour de) Dieu</francais>
+		</expression>
+		<expression id="Ala_kama1">
+			<forme>Ala kama</forme>
+			<forme_tons>Ala kamà</forme_tons>
+			<francais>pour (l'amour de) Dieu</francais>
+		</expression>
+      </sens>
+	</bloc>
+</item>
+
+<item id="ala2">
+    <forme>ala</forme>
+    <forme_tons>ala</forme_tons>
+    <cf cible="ngala1_2">
+		<forme>ngala1_</forme>
+		<forme_tons>ngala</forme_tons>
+	</cf>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="ala2_1">
+        <francais>ciel</francais>
+        <exemple>
+          <ba>Ala finna</ba>
+          <ba_tons>Ala fìnna</ba_tons>
+          <fr>le ciel s'est noirci</fr>
+        </exemple>
+      </sens>
+	</bloc>
+</item>
+
+<item id="ala3">
+    <forme>ala</forme>
+    <forme_tons>ala</forme_tons>
+    <cf cible="ngala1_3">
+		<forme>ngala1_</forme>
+		<forme_tons>ngala</forme_tons>
+	</cf>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="ala3_1">
+        <francais>pluie</francais>
+        <exemple>
+          <ba>Ala nana</ba>
+          <ba_tons>Ala nàna</ba_tons>
+          <fr>la pluie est venue, il a plu</fr>
+        </exemple>
+      </sens>
+	</bloc>
+</item-->
+
+<item id="baanan1">
+    <forme>baanan</forme>
+    <forme_tons>bàanan</forme_tons>
+    <compo_ba>bàa.nan</compo_ba>
+    <compo_fr>tanner.ce qui sert à</compo_fr>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="baanan1_1" terme="arbre, arbuste, liane">
+        <francais>acacia tannin 'Acacia nilotica adansonii' (mimo) ou 'Acacia scorpioides adstringens' (mimo)</francais>
+        <syn cible="baganan1">
+			<forme>baganan</forme>
+			<forme_tons>bàgànan</forme_tons>
+		</syn>
+		<syn>
+			<forme>bagananjiri</forme>
+			<forme_tons>bàgànanjiri</forme_tons>
+		</syn>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔɲɔgɔnko1">
+    <forme orthographe="standard Bamakɔ">bɔɲɔgɔnko</forme>
+    <forme_tons>bɔɲɔgɔnko</forme_tons>
+    <variante>
+		<forme>bɔɲɔɔnko</forme>
+		<forme_tons>bɔɲɔɔnko</forme_tons>
+    </variante>
+    <compo_ba>bɔ.ɲɔgɔn.ko</compo_ba>
+    <compo_fr>égaler.semblable.affaire</compo_fr>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bɔɲɔgɔnko1_1">
+        <francais>pareil, semblable...</francais>
+        <exemple>
+          <ba>o bɔɲɔɔnko tɛ</ba>
+          <ba_tons>ò bɔɲɔɔnko tɛ</ba_tons>
+          <fr>il n'y en a pas de pareil</fr>
+        </exemple>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔɔsi1">
+    <forme>bɔɔsi</forme>
+    <forme_tons>bɔ̀ɔsi</forme_tons>
+    <variante orthographe="standard Bamakɔ" cible="bɔsi1">
+		<forme>bɔsi</forme>
+    	<forme_tons>bɔ̀si</forme_tons>
+	</variante>
+    <cat>v.t.</cat>
+    <bloc>
+	  <sens id="bɔɔsi1_1">
+        <francais>écorcher, peler</francais>
+      </sens>
+      <sens id="bɔɔsi1_2">
+        <francais>enlever vivement, ravir</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔɔsi_bɔɔsi1">
+    <forme>bɔɔsi-bɔɔsi</forme>
+    <forme_tons>bɔ̀ɔsi-bɔ̀ɔsi</forme_tons>
+    <compo_fr>écorcher-écorcher</compo_fr>
+    <cat>v.t.</cat>
+    <bloc>
+	  <sens id="bɔɔsi_bɔɔsi1_1">
+        <francais>écorcher en plusieurs endroits</francais>
+      </sens>
+      <sens id="bɔɔsi_bɔɔsi1_2">
+        <francais>enlever de force...</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔrɔ1">
+    <forme>bɔrɔ</forme>
+    <forme_tons>bɔ̀rɔ</forme_tons>
+    <phon>bwɛrɛ</phon>
+    <variante orthographe="standard Bamakɔ">
+		<forme>bɔrɛ</forme>
+    	<forme_tons>bɔ̀rɛ</forme_tons>
+	</variante>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bɔrɔ1_1">
+        <francais>sac</francais>
+      </sens>
+      <sens id="bɔrɔ1_2">
+        <francais>sorte de combinaison (blouse-pantalon des danseurs masqués du Bɛlɛdugu)</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔrɔbɔrɔ1">
+    <forme>bɔrɔbɔrɔ</forme>
+    <forme_tons>bɔ̀rɔbɔ̀rɔ</forme_tons>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bɔrɔbɔrɔ1_1">
+        <francais>se dit d'un arbre qui porte beaucoup trop de fruits</francais>
+        <exemple>
+          <ba>nin mangoro kɛra bɔrɔbɔrɔ ye</ba>
+          <ba_tons>nìn mangòro kɛra bɔ̀rɔbɔ̀rɔ ye</ba_tons>
+          <fr>ce manguier a beaucoup donné</fr>
+        </exemple>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔrɔbɔrɔ2">
+    <forme>bɔrɔbɔrɔ</forme>
+    <forme_tons>bɔ̀rɔbɔ̀rɔ</forme_tons>
+    <variante>
+		<forme>bɔrɔbɔrɔ</forme>
+    	<forme_tons>bɔ̀rɔ̀bɔrɔ</forme_tons>
+	</variante>
+    <cat>v.t.</cat>
+    <bloc>
+	  <sens id="bɔrɔbɔrɔ2_1">
+        <francais>donner en grande quantité (arbre...)</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔrɔgɛ1">
+    <forme>bɔrɔgɛ</forme>
+    <forme_tons>bɔ̀rɔ̀gɛ</forme_tons>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bɔrɔgɛ1_1">
+        <francais>stérile (femme)</francais>
+        <syn cible="kona1">
+			<forme>kona</forme>
+			<forme_tons>kòna</forme_tons>
+		</syn>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔrɔgɛ2">
+    <forme>bɔrɔgɛ</forme>
+    <forme_tons>bɔ̀rɔ̀gɛ</forme_tons>
+    <cat>v.i.</cat>
+    <bloc>
+	  <sens id="bɔrɔgɛ2_1">
+        <francais>être stérile</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔrɔn1">
+    <forme>bɔrɔn</forme>
+    <forme_tons>bɔrɔn</forme_tons>
+    <cat>v.t.</cat>
+    <bloc>
+	  <sens id="bɔrɔn1_1">
+        <francais>tresser, attacher en enroulant</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔrɔn2">
+    <forme>bɔrɔn</forme>
+    <forme_tons>bɔrɔn</forme_tons>
+    <cat>v.t.</cat>
+    <bloc>
+	  <sens id="bɔrɔn2_1">
+        <francais>masser (tout en prononçant des formules magiques)</francais>
+        <syn cible="saalo1">
+			<forme>saalo</forme>
+			<forme_tons>sàalo</forme_tons>
+		</syn>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔrɔnjɛ1">
+    <forme usage="Falajɛ">bɔrɔnjɛ</forme>
+    <forme_tons>bɔrɔnjɛ</forme_tons>
+    <variante usage="Bɛlɛkɔ, Banan">
+		<forme>mɔrɔnjɛ</forme>
+		<forme_tons>mɔrɔnjɛ</forme_tons>
+    </variante>
+    <compo_ba>bɔrɔn.jɛ</compo_ba>
+    <compo_fr>terre.blanche</compo_fr>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bɔrɔnjɛ1_1">
+        <francais>terre blanche</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bɔrɔtɔ1">
+    <forme>bɔrɔtɔ</forme>
+    <forme_tons>bɔ̀rɔ̀tɔ</forme_tons>
+    <cat>v.t.</cat>
+    <bloc>
+	  <sens id="bɔrɔtɔ1_1">
+        <francais>découdre</francais>
+      </sens>
+      <sens id="bɔrɔtɔ1_2">
+        <francais>annuler un contrat</francais>
+      </sens>
+      <sens id="bɔrɔtɔ1_3">
+        <francais>révéler</francais>
+        <exemple>
+          <ba>gundo bɔrɔtɔ</ba>
+          <ba_tons>gùndo bɔ̀rɔ̀tɔ</ba_tons>
+          <fr>révéler un secret</fr>
+        </exemple>
+      </sens>
+	</bloc>
+</item>
+
+
+
+<item id="bɔsi1">
+    <forme orthographe="standard Bamakɔ">bɔsi</forme>
+    <forme_tons>bɔ̀si</forme_tons>
+    <cf cible="bɔɔsi1_1">
+		<forme>bɔɔsi</forme>
+		<forme_tons>bɔ̀ɔsi</forme_tons>
+	</cf>
+    <cat>v.t.</cat>
+    <bloc>
+	  <sens id="bɔsi1_1">
+        <francais>écorcher ...</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bu1">
+    <forme>bu</forme>
+    <forme_tons>bŭ</forme_tons>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bu1_1">
+        <francais>chair sans os</francais>
+        <exemple>
+          <ba>bu da</ba>
+          <ba_tons>bŭ da</ba_tons>
+          <fr>prendre du poids</fr>
+        </exemple>
+      </sens>
+      <sens id="bu1_2">
+        <francais>pulpe des fruits</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bu2">
+    <forme>bu</forme>
+    <forme_tons>bǔ</forme_tons>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bu2_1">
+        <francais>son des céréales</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bu3">
+    <forme>bu</forme>
+    <forme_tons>bù</forme_tons>
+    <cat>v.t.</cat>
+    <bloc>
+	  <sens id="bu3_1">
+        <francais>réduire en farine, en poussière</francais>
+        <exemple>
+          <ba>sen kelen tɛ sira bu</ba>
+          <ba_tons>sèn kelen tɛ sira bù</ba_tons>
+          <fr>un seul pied ne rend pas la route poudreuse</fr>
+        </exemple>
+      </sens>
+      <sens id="bu3_2">
+        <francais>rendre difficile le règlement d'une affaire</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bu4">
+    <forme>bu</forme>
+    <forme_tons>bu</forme_tons>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bu4_1" terme="oiseau">
+        <francais>tisserin à tête noire 'Ploceus melanocephalus'</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bubaa1">
+    <forme>bubaa</forme>
+    <forme_tons>bubaa</forme_tons>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bubaa1_1">
+        <francais>fétiche protecteur auquel est confié à l'enfant</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="bubaa2">
+    <forme>bubaa</forme>
+    <forme_tons>bubaa</forme_tons>
+    <variante orthographe="standard Bamakɔ">
+		<forme>bubaga</forme>
+		<forme_tons>bubaga</forme_tons>
+    </variante>
+    <variante>
+		<forme>bagabaga</forme>
+		<forme_tons>bagabaga</forme_tons>
+    </variante>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="bubaa2_1">
+        <francais>termite</francais>
+        <exemple>
+          <ba>bubaa bɛ n sen na</ba>
+          <ba_tons>bubaa bɛ n sěn na</ba_tons>
+          <fr>j'ai des fourmis (termites) dans les jambes</fr>
+        </exemple>
+        <proverbe>
+          <ba>bubaa kɛrɛ la, u bɛɛ bubaakisɛ</ba>
+          <ba_tons>bubaa kɛ̀rɛ la, ù bɛɛ bubaakisɛ</ba_tons>
+          <fr>sur les flancs de la reine-termite c'est plein d'ouvriers</fr>
+		  <explication>un bambara t'apprendra beaucoup de mots de sa langue</explication>
+        </proverbe>
+      </sens>
+	</bloc>
+</item>
+
+<item id="dabɛrɛbɛrɛma1">
+    <forme non_usage="Bɛlɛkɔ, Falajɛ" orthographe="standard Bamakɔ">dabɛrɛbɛrɛma</forme>
+    <forme_tons>dabɛrɛbɛrɛma</forme_tons>
+    <compo_ba>da.bɛrɛbɛrɛma</compo_ba>
+    <compo_fr>issue. ?</compo_fr>
+    <cat>v.t.</cat>
+    <bloc>
+	  <sens id="dabɛrɛbɛrɛma1_1">
+        <francais>couper toute retraite, boucher les issues</francais>
+      </sens>
+	</bloc>
+</item>
+
+<item id="kayo1">
+    <forme>kayo</forme>
+    <forme_tons>kayo</forme_tons>
+    <cf non_usage="Bɛlɛkɔ" cible="koyo1">
+		<forme>koyo</forme>
+		<forme_tons>koyo</forme_tons>
+	</cf>
+    <cat>n.</cat>
+    <bloc>
+	  <sens id="kayo1_1">
+        <francais>tissu de pagne blanc (avec une barre transversale)</francais>
+      </sens>
+	</bloc>
+</item>
+
+
+</dilaf>

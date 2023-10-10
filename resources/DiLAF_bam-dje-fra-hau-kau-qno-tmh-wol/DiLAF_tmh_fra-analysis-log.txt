@@ -1,0 +1,42 @@
+Début de l'analyse du dictionnaire /data/ipolex/DiLAF_bam-dje-fra-hau-kau-qno-tmh-wol/dilaf_tmh_fra.xml
+1000 albab analysés
+1000 təzugəst analysés
+1000 təmuṣt analysés
+1000 əlfiɣšǎt analysés
+1000 təfaransist analysés
+1000 almaɣna analysés
+1000 əlmisal analysés
+1000 igət analysés
+2000 albab analysés
+2000 təzugəst analysés
+2000 təmuṣt analysés
+2000 əlfiɣšǎt analysés
+2000 təfaransist analysés
+1000 anammelu analysés
+2000 almaɣna analysés
+2000 əlmisal analysés
+2000 igət analysés
+3000 albab analysés
+3000 təzugəst analysés
+3000 təmuṣt analysés
+3000 əlfiɣšǎt analysés
+3000 təfaransist analysés
+3000 almaɣna analysés
+3000 əlmisal analysés
+4000 albab analysés
+4000 təzugəst analysés
+4000 təmuṣt analysés
+4000 əlfiɣšǎt analysés
+4000 təfaransist analysés
+3000 igət analysés
+4000 almaɣna analysés
+4000 əlmisal analysés
+2000 anammelu analysés
+5000 albab analysés
+5000 təzugəst analysés
+5000 təmuṣt analysés
+5000 əlfiɣšǎt analysés
+5000 təfaransist analysés
+Fin de l'analyse du dictionnaire
+Début de l'écriture du résultat
+Fin de l'écriture du résultat

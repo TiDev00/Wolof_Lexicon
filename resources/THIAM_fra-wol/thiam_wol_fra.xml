@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database toolboxdatabasetype="Dic_Wol" wrap="400" toolboxversion="1.6.1 Jun 2013" toolboxwrite="export">
+<lexGroup>
+<lex>aada</lex>
+<uttW>a:dɐ</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>li aw xeet cosaanoo di ko def</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>coutumes</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sunu aada day bañ foot àllarba</phrW>
+<tradPhrW>Nos coutumes nous interdisent de faire le linge le mercredi</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>Aadama</lex>
+<uttW>a:dɐmɐ</uttW>
+<catWGroup>
+<catW>turu bopp</catW>
+</catWGroup>
+<defWGroup>
+<defW>Turu nit ki yàlla jëkk bind, ci jullit yi</defW>
+</defWGroup>
+<exDerWGroup>
+<exDerW>doomu aadama</exDerW>
+</exDerWGroup>
+<tradFlexGroup>
+<tradFlex>Adan</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama mag bu jigéen Aadama la tudd</phrW>
+<tradPhrW>Ma soeur ainée s'appelle Aadama</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aadama</lex>
+<uttW>a:dɐmɐ</uttW>
+<catWGroup>
+<catW>turu bopp</catW>
+</catWGroup>
+<defWGroup>
+<defW>Turu nit ki Yàlla jëkk bind, ci jullit yi</defW>
+</defWGroup>
+<exDerWGroup>
+<exDerW>doomu aadama</exDerW>
+</exDerWGroup>
+<tradFlexGroup>
+<tradFlex>Adam</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama mag Aadama la tudd.</phrW>
+<tradPhrW>Mon frère ainé s'appelle Adam.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aajo</lex>
+<uttW>a:ɟɔ</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>jikkoy kuy waatal nit ñi ci boppam</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>chaleur humaine</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Nit ku am aajo la.</phrW>
+<tradPhrW>C'est une personne chaleureuse.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aal</lex>
+<uttW>a:l</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>yëg-yëg buy dikkal nit</defW>
+</defWGroup>
+<synW>abal</synW>
+<homW>aal</homW>
+<tradFlexGroup>
+<tradFlex>possession</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Suko aal ji dikkalee, kenn du ko mën tëye.</phrW>
+<tradPhrW>S'il est possédé, personne ne peut le tenir.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aal</lex>
+<uttW>a:l</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>yëg-yëg buy dikkal nit</defW>
+</defWGroup>
+<synW>abal</synW>
+<homW>aal</homW>
+<tradFlexGroup>
+<tradFlex>transe (AMD)</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Su ko aal ji dikkalee, kenn du ko mën tëye.</phrW>
+<tradPhrW>Quand il est en trance, personne ne peut le tenir.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>revoir la définition: yëg-yëg bu nit di taxalikoo ak saggom?</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aal</lex>
+<uttW>a:l</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>joxe loo mayewul</defW>
+</defWGroup>
+<defWGroup>
+<defW>jox nit lu mu wara deloo (AMD)</defW>
+</defWGroup>
+<synW>abal</synW>
+<homW>aal</homW>
+<tradFlexGroup>
+<tradFlex>prêter</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama mag moo ma aal téereem.</phrW>
+<tradPhrW>Mon grand frère m'a prêté son livre.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>choisir une def wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aar</lex>
+<uttW>a:r</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>fexe ba luy lore du yegsi</defW>
+</defWGroup>
+<defWGroup>
+<defW>fexe ba luy lore bañe yegsi</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>protéger</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Waajur yi ñoo wara aar seen doom.</phrW>
+<tradPhrW>C'est aux parents de protéger leur enfant</tradPhrW>
+<tradPhrW>Ce sont les parents qui doivent protéger leur enfant</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>choisir entre les deux trad de phr</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aat</lex>
+<uttW>a:t˺</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>góor gu nekk ci lël</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>circoncis</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Ren, aat yi xale yu tuuti la ñu.</phrW>
+<tradPhrW>Cette année, les circoncis sont très jeunes. (AMD)</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aawlu</lex>
+<uttW>a:wlu</uttW>
+<catWGroup>
+<catW>waxe-nekkin</catW>
+</catWGroup>
+<defWGroup>
+<defW>melokaanu ku lu ne di dal</defW>
+</defWGroup>
+<defWGroup>
+<defW>melokaanu kuy ñakkaloo wersek</defW>
+</defWGroup>
+<defWGroup>
+<defW>koo xame ne lu ne da kow dal</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>porter la guigne</tradFlex>
+<catF>verbe (AMD)</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama rakk dafa aawlu.</phrW>
+<tradPhrW>Mon petit frère porte  la guigne.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>voir les def wol</cmt>
+<autStat>AMD</autStat>
+<dat>03/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aawo</lex>
+<uttW>a:wɔ</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>jabar ji jëkk ci séyu kuje</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>première épouse d'un mariage polygamme</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Aawo bi lay faral di waxal.</phrW>
+<tradPhrW>Il a l'habitude de se confier à sa première épouse.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aay</lex>
+<uttW>a:y</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>bañ bokk</defW>
+</defWGroup>
+<homW>aay</homW>
+<tradFlexGroup>
+<tradFlex>ne pas vouloir partager</tradFlex>
+<catF>verbe (amd)</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Xale bi dafa aay ci ay fowukaayam.</phrW>
+<tradPhrW>Cet enfant ne partage pas ses jouets.</tradPhrW>
+<tradPhrW>Cet enfant ne  veut pas partager pas ses jouets.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>voir trad phr</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aay</lex>
+<uttW>a:y</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>mën lenn mën-mën bu wér</defW>
+</defWGroup>
+<homW>aay</homW>
+<tradFlexGroup>
+<tradFlex>être talentueux</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Xale bi dafa aay ci futbal.</phrW>
+<tradPhrW>Cet enfant est talentueux au football</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>n'est-ce pas plutôt un waxe-nekkin?</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aaye</lex>
+<uttW>a:ye</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>tere ku jëriñoo loo moom</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>refuser quelque chose à quelqu'un</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama nijaay dafay aaye ku jaar ci toolam.</phrW>
+<tradPhrW>Mon oncle refuse que l'on passe par son champ.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>def wol: tere nit lu mu bëgg def; traf fran: interdire de faire quelque chose</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>abal</lex>
+<uttW>ɐbɐl</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>joxe loo mayewul</defW>
+</defWGroup>
+<defWGroup>
+<defW>jox nit lu mu wara deloo (AMD)</defW>
+</defWGroup>
+<synW>aal</synW>
+<tradFlexGroup>
+<tradFlex>prêter</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama mag moo ma abal téereem.</phrW>
+<tradPhrW>Mon grand frère m'a prêté son livre.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>choisir une def wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>af</lex>
+<uttW>ɐf</uttW>
+<catWGroup>
+<catW>waxe-nekkin</catW>
+</catWGroup>
+<defWGroup>
+<defW>melokaanu barab bu ñakk fegu ba ngelaw lu bare di fa tàbbi (amd)</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>être ouvert à tous vents</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama kër gi dafa af.</phrW>
+<tradPhrW>Ma maison est ouverte à tous vents.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>agsi</lex>
+<varW>yegsi</varW>
+<dat>14/Apr/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>agsi</lex>
+<uttW>ɐgsi</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>fekk ki ngay waxal fi mu nekk</defW>
+</defWGroup>
+<defWGroup>
+<defW>teer si benn barab</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>arriver (dans un endroit); arriver à bo port (amd)</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Ki nga yónniwoon agsi na.</phrW>
+<tradPhrW>Celui que tu avais envoyé est bien arrivé.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>def wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ahankay</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aj</lex>
+<synW>tagal</synW>
+<tradFlexGroup>
+<tradFlex>suspendre</tradFlex>
+</tradFlexGroup>
+<dat>26/Apr/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aj</lex>
+<uttW>ɐɟ˺</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>dem màkk ci santaane lislaam</defW>
+</defWGroup>
+<defWGroup>
+<defW>tukki/dem ci dëkku diiné ngir jàmmu Yàlla (amd)</defW>
+</defWGroup>
+<homW>aj</homW>
+<tradFlexGroup>
+<tradFlex>Faire le pélerinage  de lieux saints</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Aj na daaw, dina dellu ren.</phrW>
+<tradPhrW>Il a fait le pélerinage l'année dernière, il y retourne cette année.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>choisir parmi les def wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aj</lex>
+<uttW>ɐɟ˺</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>tekk fu kawe</defW>
+</defWGroup>
+<homW>aj</homW>
+<tradFlexGroup>
+<tradFlex>placer en hauteur</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Aj na téere bi ba xale bi du ko jot.</phrW>
+<tradPhrW>Il a placé le livre en hauteurde telle manière que l'enfant ne puisse l'atteindre (amd)</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ajaa</lex>
+<uttW>ɐɟa:</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>tur  bu nuy jox jigéen ju aj màkk</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>nom donné à une femme qui a fait le pélerinage musulman</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama yaay ajaa rekk la ñu koy woowe.</phrW>
+<tradPhrW>Ma mère est toujours appelée &quot;ajaa&quot;.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ajjuma</lex>
+<uttW>aɟ:umɐ</uttW>
+<catWGroup>
+<catW>turu bopp</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>juróomeelu bés ci ayu-bés</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>vendredi</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>àjjuma lay faral di sol yére wolof.</phrW>
+<tradPhrW>le vendredi il a tendance à shabller à la sénégalaise. (amd)</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ajoor</lex>
+<uttW>ɐɟɔ:r</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>turu nit ku dëkk Kajoor</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>nom donné aux originaires de la région sénégalaise du &quot;kayoor&quot;</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama yaay ajoor la.</phrW>
+<tradPhrW>Ma mère est originaire du &quot;Kayoor&quot;.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>28/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aju</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aka</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>akara</lex>
+<uttW>ɐkɐrɐ</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>beñe ñebbe</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>bégnets à base de haricots</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Seen akara ji neex na.</phrW>
+<tradPhrW>Vos &quot;akara&quot; sont bons.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>28/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>alaaji</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>alaaxira</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>alag</lex>
+<uttW>ɐlɐg˺</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>jëriñoo, jublu ci yàq</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>utiliser sans aucun soin</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Alag na kër gi ñu ko abal.</phrW>
+<tradPhrW>Il n'a pris aucun soin de la maison qu'on lui a prêté.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>revoir la def wol: jëriñoo di yàq; ñakk aar luñu jëriñoo, jëriñoo dara té ñakk ko aar</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>alal</lex>
+<uttW>ɐlɐl</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>lu nit moom</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>biens</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Yàq na alal ji mu amoon.</phrW>
+<tradPhrW>il a dilapidé les biens qu'il avait (amd)</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>alamaan</lex>
+<uttW>ɐlɐma:n˺</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>daan/tekk nit lu mu wara fay</defW>
+</defWGroup>
+<homW>alamaan</homW>
+<tradFlexGroup>
+<tradFlex>infliger une amende</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Alkaati bi dafa ko alamaan.</phrW>
+<tradPhrW>L'agent de police lui a infligé une amende.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>choisir le verbe de la def wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>alamaan</lex>
+<uttW>ɐlɐma:n˺</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>daan/ nattum xaalis bu ñu teg nit</defW>
+</defWGroup>
+<homW>alamaan</homW>
+<tradFlexGroup>
+<tradFlex>amende</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Mënu ma fay alamaan bi.</phrW>
+<tradPhrW>Je ne peux pas payer l'amende.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>choisir la bonne def wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>alkaati</lex>
+<uttW>ɐlka:ti</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>nit kuy liggéey ci polis</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>Agent de police</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama baay alkaati la.</phrW>
+<tradPhrW>Mon père est un agent de police.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>allaaji</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>allaaxira</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>almaami</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>almet</lex>
+<uttW>ɐlmɛt˺</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>mbant su ñuy taale</defW>
+</defWGroup>
+<defWGroup>
+<defW>bant bu sew bu nuy jëfandikoo ngiir taal</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>allumette</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sa almet bi du tàkk, dafa tooy.</phrW>
+<tradPhrW>Ton allumette est mouillée et ne peut s'allumer.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>voir defs wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aloom</lex>
+<uttW>ɐlɔ:m˺</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<srcLW>dictionnaire arame</srcLW>
+<defWGroup>
+<defW>xeetu meñent mu ñu mëna lekk</defW>
+</defWGroup>
+<homW>aloom</homW>
+<tradFlexGroup>
+<tradFlex>fruit du Diospyros</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Xale bi dafa fori aloom.</phrW>
+<tradPhrW>L'enfant est parti ramasser des fruits de diospyros.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>décrire le fruit dans la def wol; meññent?</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aloom</lex>
+<uttW>ɐlɔ:m˺</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>g-</clasW>
+</catWGroup>
+<srcLW>dictionnaire arame</srcLW>
+<defWGroup>
+<defW>garab giy meññ aloom</defW>
+</defWGroup>
+<homW>aloom</homW>
+<tradFlexGroup>
+<tradFlex>diospyros</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Gor nañu aloom gi nekkoon ci peñc mi.</phrW>
+<tradPhrW>On a coupe le diospyros qui était sur la place.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>meññal? meññil?</cmt>
+<autStat>AMD</autStat>
+<dat>28/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>altine</lex>
+<uttW>ɐltine</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>bés bi jiitu ci ayu-bés</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>lundi</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Altine jii di ñëw lay ñibbi.</phrW>
+<tradPhrW>Il rentre lundi prochain.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>28/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>alxuraan</lex>
+<uttW>ɐlxura:n˺</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>téere bi lislaam sukkandiku</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>coran</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Alxuraan ji du fu nekk lañu koy teg.</phrW>
+<tradPhrW>On ne peut poser le coran n'importe où.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>28/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>am</lex>
+<uttW>ɐm˺</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>moom dara</defW>
+</defWGroup>
+<homW>am</homW>
+<exDerWGroup>
+<exDerW>am-am</exDerW>
+</exDerWGroup>
+<exDerWGroup>
+<exDerW>am-di-jàmm</exDerW>
+</exDerWGroup>
+<tradFlexGroup>
+<tradFlex>avoir</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Kër gi ma am defa ratfet.</phrW>
+</phrWGroup>
+<phrWGroup>
+<phrW>xale bii am na ñetti at</phrW>
+<tradPhrW>La maison que j'ai est jolie./ Cet enfant a trois ans</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>choisir une phrase</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>am</lex>
+<uttW>ɐm˺</uttW>
+<catWGroup>
+<catW>waxe-nekkin</catW>
+</catWGroup>
+<defWGroup>
+<defW>nekk gu ñu mën teg bët</defW>
+</defWGroup>
+<homW>am</homW>
+<tradFlexGroup>
+<tradFlex>exister</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Jinne dafa am.</phrW>
+<fsPhrW>Les &quot;jinn&quot; existent.</fsPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>28/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>amaana</lex>
+<uttW>ʔɐma:nɐ</uttW>
+<defWGroup>
+<defW>nekk gu wóorul</defW>
+</defWGroup>
+<synW>xeyna (amd)</synW>
+<tradFlexGroup>
+<tradFlex>peut-être</tradFlex>
+<catF>adverbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Amaana ma ñibbi tey.</phrW>
+<tradPhrW>Peut-être que je rentrerai aujourd'hui.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>catw?</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>amal</lex>
+<uttW>ɐmɐl</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>sàkk lu amul</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>créer, réaliser</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Yàllaay amal.</phrW>
+<tradPhrW>C'est Dieu qui crée.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>éviter les formes contractées dans les phr. si c'est un proverbe, changer la phrase</cmt>
+<autStat>AMD</autStat>
+<dat>28/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ame</lex>
+<uttW>ɐme</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>yore dara ci jëmmam (amd)</defW>
+</defWGroup>
+<homW>ame</homW>
+<tradFlexGroup>
+<tradFlex>avoir sur soi</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Foo ko fekk mu ngi ame gànnaay.</phrW>
+<tradPhrW>Il a toujours une arme sur lui.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ame</lex>
+<uttW>ɐme</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>téyé dara (amd)</defW>
+</defWGroup>
+<homW>ame</homW>
+<tradFlexGroup>
+<tradFlex>tenir</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Na nga moytu gànnaay gi mu ame.</phrW>
+<tradPhrW>Il faudra faire attention à l'arme qu'il tient.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ameel</lex>
+<uttW>ɐmɛ:l</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>yore luñu wara delloo (amd)</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>devoir quelque chose (amd)</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Ameel naa ko xaalis.</phrW>
+<tradPhrW>Je lui dois de l'argent.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>amiin</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>am-am</lex>
+<uttW>ʔɐm˺ʔɐm˺</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>alal ji nit ki moom</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>avoir</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sa am-am dana yokku soo bayyee yaq.</phrW>
+<tradPhrW>Ton avoir va augmenter si tu arrêtes de gaspiller.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>am-am et alal, ne sont-ils pas synonymes?</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>am-di-jàmm</lex>
+<uttW>ɐmdiɟamᵊ</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>nit bu ñu amal jàmm (amd)</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>personne avec qui on a de bonnes relations</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama am-di-jàmm yëpp ñëw na ñu ci xew mi. (amd)</phrW>
+<tradPhrW>Toutes mes relations sont venues à la fête. (amd)</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>an</lex>
+<uttW>ɐn˺</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>dajale jublu ci dindi/ dindi lu ñu dajalé ba pare</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>amasser pour enlever/ enlever après avoir rassemblé</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Dinaa an mbalit mi.</phrW>
+<tradPhrW>J'enleverai les ordures.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>choisir entre les options</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ana</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>anam</lex>
+<uttW>ɐnam˺</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>y-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>ni mbir tëdde/ yoon bi dara (jaar ba am) amee</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>circonstances</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Xamu ma ci yan anam ngeen xamantee.</phrW>
+<tradPhrW>Je ne connais pas les circonstances dans lesquelles vous vous êtes connus</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>options de def wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>and</lex>
+<uttW>ɐndᵊ</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>jumtukaayu def xalu suuru</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>encensoir</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama and bi dafa toj.</phrW>
+<tradPhrW>Mon encensoir est cassé.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>28/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>andaar</lex>
+<uttW>ɐnda:r</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>w-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>natt bu tolloog ñaari kilo  (amd)</defW>
+<srcDW>dictionnaire arame</srcDW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>unité de mesure de deux kilo grammes envirion</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Xale bi àttanul ñaari andaar.</phrW>
+<tradPhrW>L'enfant ne peut pas porter l'équivalent de deux &quot;andaar&quot;.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aniin</lex>
+<uttW>ɐni:n</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>lu  baxa lu jigéen ñi di diw ci seen tuñ (amd)</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>bleu à lèvres</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama aniin ji jéex na.</phrW>
+<tradPhrW>Je n'ai plus de bleu à lèvres</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aniinu</lex>
+<uttW>ɐni:nu</uttW>
+<defWGroup>
+<defW>diw aniin ci tuñ</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>se mettre du bleu à lèvre</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Dafa tàmm aniinu balaa muy génn.</phrW>
+<tradPhrW>Elle a l'habitude de se mettre du bleu à lèvre avant de sortir.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>añ</lex>
+<uttW>ɐɲ˺</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>lekk ci diggu bëcëg</defW>
+</defWGroup>
+<homW>añ</homW>
+<tradFlexGroup>
+<tradFlex>déjeuner</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama xarit bi dafay añ balaa ngontu  (amd)</phrW>
+<tradPhrW>Mon ami déjeune avant de retourner au travail (amd)</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>añ</lex>
+<uttW>ɐɲ˺</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>lekku diggu bëcëg</defW>
+</defWGroup>
+<homW>añ</homW>
+<tradFlexGroup>
+<tradFlex>déjeuner</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama añ bi dafa naaje tey.</phrW>
+<tradPhrW>Mon déjeuner est tardif aujourd'hui.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>28/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>añaan</lex>
+<uttW>ɐɲa:n˺</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>bañ kennen am lu baax (amd)/ melokaanu ku bañ keneen am lu baax</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>être capable de mauvaiseté/ être méchant</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Na nga moytu sa xarit bi dafa añaan.</phrW>
+<tradPhrW>Fais attention à ton ami, il est capable de mauvaiseté.  (amd)</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>waxe-nekkin?</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>añaan</lex>
+<uttW>ɐɲa:n'</uttW>
+<catWGroup>
+<catW>waxe-nekkin</catW>
+</catWGroup>
+<varW>iñaan</varW>
+<varW>iññaan</varW>
+<varW>aññaan</varW>
+<tradFlexGroup>
+<tradFlex>être jaloux</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<aut>NFT</aut>
+<dat>03/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aññaan</lex>
+<uttW>ɐɲ:a:n</uttW>
+<varW>iññaan</varW>
+<varW>iñaan</varW>
+<varW>añaan</varW>
+<tradFlexGroup>
+<tradFlex>être jaloux</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<aut>NFT</aut>
+<dat>03/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>araam</lex>
+<uttW>ɐra:m˺</uttW>
+<catWGroup>
+<catW>waxe-nekkin</catW>
+</catWGroup>
+<defWGroup>
+<defW>melokaanu jëf walla yëf ju  (diiné) tere (amd)</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>être interdit</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Rey nit dafa araam.</phrW>
+<tradPhrW>Tuer un être humain est interdit</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>ok</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>araf</lex>
+<uttW>ɐrɐf</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>w-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>mbindinu baati aw làkk / xàmmekay/ xeetu rëdd bu nuy janfandikoo ngir / ci bind</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>lettre (caractère)</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Ci wolof am na ay araf yu ma mënul bind.</phrW>
+<tradPhrW>Il y a en wolof des lettres que je ne peux pas écrire.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>mbindinu? choix entre les def wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>araw</lex>
+<uttW>ɐrɐw</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>defar sunguf ba mën ko laax/ ba mu soppeliku xeetu donj</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>rouler la farine en petites boules d'un type particulier</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Sama yaay tàkkusaan lay faral di araw.</phrW>
+<tradPhrW>C'est autour de cinq heures que ma mère a l'habitude de rouler la farine.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>def wol</cmt>
+<autStat>AMD</autStat>
+<dat>31/Aug/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>arbiis</lex>
+<uttW>ɐrbi:s</uttW>
+<varW>Ã«rbiis</varW>
+<aut>NFT</aut>
+<dat>03/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aréen</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>artu</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>asaka</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>asamaan</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>askan</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>astafurlaa</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>at</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>attaaya</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>aw</lex>
+<tradFlexGroup>
+<tradFlex>relayer</tradFlex>
+</tradFlexGroup>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>awokaa</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>awra</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>awu</lex>
+<tradFlexGroup>
+<tradFlex>saisir au vol</tradFlex>
+</tradFlexGroup>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ay</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ayca</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ayib</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àbb</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àddina</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àddu</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àdduna</lex>
+<uttW>ad:unɐ</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>b-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>mbooleem nit ak li ko wër</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>monde (le)</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Àdduna bi léegi dafa lëj.</phrW>
+<tradPhrW>Le monde est maintenant compliqué.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àgg</lex>
+<uttW>ag:ə</uttW>
+<catWGroup>
+<catW>waxe-jëfin</catW>
+</catWGroup>
+<defWGroup>
+<defW>jot sa jëmu</defW>
+</defWGroup>
+<synW>yegg</synW>
+<tradFlexGroup>
+<tradFlex>atteindre, arriver</tradFlex>
+<catF>verbe</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Dafay dem ba àgg këram soog di lekk.</phrW>
+<tradPhrW>C'est une fois arrivé chey lui qu'il a mangé.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<cmt>Dans la transcription phonétique le ə final est suscrit; yegg: syn ou var?</cmt>
+<autStat>AMD</autStat>
+<dat>03/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àjjana</lex>
+<uttW>aɟɐnɐ</uttW>
+<catWGroup>
+<catW>turu bokkaale</catW>
+<clasW>j-</clasW>
+</catWGroup>
+<defWGroup>
+<defW>dëkkuwaayu defkatu lu baax bu dee ci jullit yi</defW>
+</defWGroup>
+<tradFlexGroup>
+<tradFlex>paradis</tradFlex>
+<catF>nom</catF>
+</tradFlexGroup>
+<phrWGroup>
+<phrW>Àjjana la julit bi di ñaan.</phrW>
+<tradPhrW>Le paradis est l''espoir de tout musulman.</tradPhrW>
+</phrWGroup>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àkk</lex>
+<uttW>ak:</uttW>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àkklaw</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àll</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àllaaxira</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àlluwa</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>ànd</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àndandoo</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àntu</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àppaat</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àq</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àttan</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>àtte</lex>
+<aut>MTC</aut>
+<dat>02/Sep/2007</dat>
+</lexGroup>
+
+<lexGroup>
+<lex>fii ak</lex>
+<uttW>fi:ɐk'</uttW>
+<varW>feek</varW>
+<varW>fileek</varW>
+<aut>NFT</aut>
+<dat>03/Sep/2007</dat>
+</lexGroup>
+</database>

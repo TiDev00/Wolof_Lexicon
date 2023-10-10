@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<volume-metadata
+   xmlns="http://www-clips.imag.fr/geta/services/dml" 
+   xmlns:d="http://www-clips.imag.fr/geta/services/dml"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www-clips.imag.fr/geta/services/dml
+   http://www-clips.imag.fr/geta/services/dml/dml.xsd"
+   location="local"
+   creation-date="2016-06-27T16:03:29+02:00" 
+   installation-date="2016-06-27T16:03:29+02:00" 
+   last-modification-date="2016-06-27T16:14:03+02:00" 
+   hw-number="4928" 
+   encoding="UTF-8" 
+   format="xml" 
+   name="DiLAF_wol_fra"
+   dbname="dilafwolfra" 
+   version="1"
+   source-language="wol"
+   target-languages="fra"
+   reverse-lookup="false">
+ <authors>Projet DiLAF</authors>
+ <comments></comments>
+ <cdm-elements>
+  <cdm-volume xpath="/dilaf"/>
+<cdm-entry xpath="/dilaf/dog"/>
+<cdm-entry-id xpath="/dilaf/dog/@màndarga"/>
+<cdm-headword xpath="/dilaf/dog/mbirmi/text()"/>
+<cdm-pronunciation xpath="/dilaf/dog/tëggin/text()"/>
+<cdm-pos xpath="/dilaf/dog/xeet/text()"/>
+<cdm-definition xpath="/dilaf/dog/tëggin/text()"/>
+<cdm-sense xpath="/dilaf/dog/sayu_tekki"/>
+<cdm-translation xpath="/dilaf/dog/sayu_tekki/tekki/nettalin/text()" d:lang="fra" />
+  <cdm-example xpath="/dilaf/dog/sayu_tekki/tekki/nettalin[@làkk='fr']/text()" d:lang="fra" />
+  <cdm-example xpath="/dilaf/dog/sayu_tekki/tekki/nettalin[@làkk='wo']/text()" d:lang="wol" />
+  <links>
+  </links>
+	</cdm-elements>
+<administrators>
+		  <user-ref name="mangeot"/>
+		  <user-ref name="enguehard"/>
+ </administrators>
+ <volume-ref xlink:href="dilaf_wol_fra.xml" source-language="wol"/>
+ <xmlschema-ref xlink:href="dilaf_wol_fra.xsd"/>
+<template-entry-ref xlink:href="dilaf_wol_fra-template.xml"/>
+<xsl-stylesheet name="DiLAF_wol_fra" default="true" xlink:href="DiLAF_wol_fra-view.xsl"/>
+ 	</volume-metadata>

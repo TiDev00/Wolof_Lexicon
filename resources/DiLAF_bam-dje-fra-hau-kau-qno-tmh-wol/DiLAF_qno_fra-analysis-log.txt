@@ -1,0 +1,10 @@
+Début de l'analyse du dictionnaire /data/ipolex/DiLAF_bam-dje-fra-hau-kau-tmh/dilaf_qno_fra.xml
+1000 sens analysés
+1000 définition analysés
+1000 entrée analysés
+1000 forme analysés
+1000 bloc analysés
+1000 phonétique analysés
+Fin de l'analyse du dictionnaire
+Début de l'écriture du résultat
+Fin de l'écriture du résultat

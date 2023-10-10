@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary-metadata
+   xmlns="http://www-clips.imag.fr/geta/services/dml"
+   xmlns:d="http://www-clips.imag.fr/geta/services/dml" 
+   xmlns:xlink="http://www.w3.org/1999/xlink" 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www-clips.imag.fr/geta/services/dml
+   http://www-clips.imag.fr/geta/services/dml/dml.xsd"
+   category="bilingual" 
+   creation-date="2011-01-13T19:22:31+01:00" 
+   installation-date="2011-01-13T19:22:31+01:00" 
+   last-modification-date="2017-04-11T10:39:24+02:00" 
+   fullname="Dictionnaire français - langues africaines"
+   name="DiLAF" 
+   owner="Projet DiLAF" 
+   type="monovolume"> 
+ <languages>
+ <source-language d:lang="bam"/>
+ <source-language d:lang="dje"/>
+ <source-language d:lang="hau"/>
+ <source-language d:lang="kau"/>
+ <source-language d:lang="qno"/>
+ <source-language d:lang="tmh"/>
+ <source-language d:lang="wol"/>
+ <target-language d:lang="fra"/>
+ </languages>
+ <contents>vocabulaire général</contents>
+ <domain>général</domain> 
+ <source>Projet DiLAF</source>
+ <authors>Projet DiLAF</authors>
+ <legal>Creative Commons, certains droits réservés</legal>
+ <access>public</access>
+ <comments></comments>
+ <administrators>
+		  <user-ref name="mangeot"/>
+		  <user-ref name="enguehard"/>
+ </administrators>
+ <volumes>
+  <volume-metadata-ref name="DiLAF_bam_fra" xlink:href="DiLAF_bam_fra-metadata.xml" source-language="bam" target-languages="fra" />
+  <volume-metadata-ref name="DiLAF_tmh_fra" xlink:href="DiLAF_tmh_fra-metadata.xml" source-language="tmh" target-languages="fra" />
+  <volume-metadata-ref name="DiLAF_hau_fra" xlink:href="DiLAF_hau_fra-metadata.xml" source-language="hau" target-languages="fra" />
+  <volume-metadata-ref name="DiLAF_kau_fra" xlink:href="DiLAF_kau_fra-metadata.xml" source-language="kau" target-languages="fra" />
+  <volume-metadata-ref name="DiLAF_dje_fra" xlink:href="DiLAF_dje_fra-metadata.xml" source-language="dje" target-languages="fra" />
+  <volume-metadata-ref name="DiLAF_wol_fra" xlink:href="DiLAF_wol_fra-metadata.xml" source-language="wol" target-languages="fra" />
+  <volume-metadata-ref name="DiLAF_qno_fra" xlink:href="DiLAF_qno_fra-metadata.xml" source-language="qno" target-languages="fra" />
+ </volumes>
+  
+</dictionary-metadata>

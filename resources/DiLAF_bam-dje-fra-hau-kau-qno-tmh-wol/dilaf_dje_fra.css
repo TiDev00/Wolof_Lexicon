@@ -1,0 +1,53 @@
+/* feuille de style pour le dictionnaire Zarma */
+
+article {
+	display:block;
+}
+
+sanniize {
+	font-size: bigger;
+	font-weight: bold;
+}
+
+ciiyaŋ {
+	padding-left:10px;
+}
+
+kanandi {
+	font-style: italic;
+	padding-left:10px;
+	padding-right:10px;
+	color: red;
+}
+
+bareyaŋ {
+	color:blue;
+	padding-right:10px;
+}
+
+feeriji {
+	padding-right:10px;
+	font-weight: bold;
+}
+
+silmaŋ {
+	font-style: italic;
+	padding-right:10px;
+}
+
+himacare, wayc, cidumi {
+	font-size: smaller;
+	padding-right:5px;
+}
+
+di {
+	text-decoration: underline;
+	padding-right:5px;
+}
+
+f,b {
+	font-size: smaller;
+	font-weight: normal;
+	font-family:courier;
+	padding-right:5px;
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<dilaf>
+	  <article id="">
+      <kalma></kalma>
+      <bowodu></bowodu>
+      <naptu_curo_nahauyen></naptu_curo_nahauyen>
+      <bǝri id="">
+         <maana></maana>
+         <misal>
+            <version tǝlam="ka"></version>
+            <version tǝlam="fa"></version>
+         </misal>
+         <kalakta tǝlam="fa"></kalakta>
+      </bǝri>
+   </article>
+</dilaf>

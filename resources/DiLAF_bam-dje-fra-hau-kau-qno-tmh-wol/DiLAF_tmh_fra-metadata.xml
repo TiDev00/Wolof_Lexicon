@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<volume-metadata
+   xmlns="http://www-clips.imag.fr/geta/services/dml" 
+   xmlns:d="http://www-clips.imag.fr/geta/services/dml"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www-clips.imag.fr/geta/services/dml
+   http://www-clips.imag.fr/geta/services/dml/dml.xsd"
+   location="local"
+   creation-date="2011-01-13T19:28:56+01:00" 
+   installation-date="2011-01-13T19:28:56+01:00" 
+   last-modification-date="2011-01-13T19:31:38+01:00" 
+   hw-number="5201" 
+   encoding="UTF-8" 
+   format="xml" 
+   name="DiLAF_tmh_fra"
+   dbname="dilaftmhfra" 
+   version="1"
+   source-language="tmh"
+   target-languages="fra"
+   reverse-lookup="false">
+ <authors>Projet DiLAF</authors>
+ <comments></comments>
+ <cdm-elements>
+  <cdm-volume xpath="/dilaf"/>
+<cdm-entry xpath="/dilaf/albab"/>
+<cdm-entry-id xpath="/dilaf/albab/@id"/>
+<cdm-headword xpath="/dilaf/albab/təzugəst/text()"/>
+<cdm-homograph-number xpath="/dilaf/albab/təzugəst/@limaraw"/>
+<cdm-pos xpath="/dilaf/albab/təmuṣt/text()"/>
+<cdm-translation xpath="/dilaf/albab/təfaransist/text()" d:lang="fra" />
+<cdm-definition xpath="/dilaf/albab/almaɣna/text()" d:lang="tmh" />
+<cdm-example xpath="/dilaf/albab/əlmisal/text()" d:lang="tmh" />
+</cdm-elements>
+ <administrators>
+  <user-ref name="mangeot"/>
+ </administrators>
+ <volume-ref xlink:href="dilaf_tmh_fra.xml" source-language="tmh"/>
+ <template-entry-ref xlink:href="dilaf_tmh_fra-template.xml"/>
+ <xsl-stylesheet name="DiLAF_tmh_fra" default="true" xlink:href="dilaf_tmh_fra-view.xsl"/>
+</volume-metadata>

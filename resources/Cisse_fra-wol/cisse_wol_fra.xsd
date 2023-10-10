@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="volume">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="article"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="article">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="bloc_forme"/>
+        <xs:element minOccurs="0" ref="catégorie_grammaticale"/>
+        <xs:element minOccurs="0" ref="classe_nominale"/>
+        <xs:element minOccurs="0" ref="source_lexème"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="définition"/>
+          <xs:element ref="homonyme"/>
+          <xs:element ref="sens"/>
+          <xs:element ref="srcDW"/>
+          <xs:element ref="variante"/>
+        </xs:choice>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="traduction_française_phrase_illustration"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="synonyme"/>
+        <xs:element minOccurs="0" ref="catégorie_grammaticale_traduction_française_mot_vedette"/>
+        <xs:element minOccurs="0" ref="lexème_source_expression_dérivée"/>
+        <xs:element minOccurs="0" ref="bloc_traduction"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="exemple"/>
+        <xs:element minOccurs="0" ref="bloc_dérivés"/>
+        <xs:element minOccurs="0" ref="auteur"/>
+        <xs:element minOccurs="0" ref="commentaire"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="auteur_statut_fiche"/>
+        <xs:element minOccurs="0" ref="bloc_métainformation"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bloc_forme">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="mot_vedette"/>
+        <xs:element minOccurs="0" ref="prononciation"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mot_vedette" type="xs:string"/>
+  <xs:element name="prononciation" type="xs:string"/>
+  <xs:element name="catégorie_grammaticale" type="xs:string"/>
+  <xs:element name="classe_nominale" type="xs:string"/>
+  <xs:element name="source_lexème" type="xs:string"/>
+  <xs:element name="sens">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="définition"/>
+        <xs:element minOccurs="0" ref="synonyme"/>
+        <xs:choice minOccurs="0">
+          <xs:element ref="homonyme"/>
+          <xs:element ref="note_usage"/>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="bloc_traduction"/>
+        <xs:element minOccurs="0" ref="exemple"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="note_usage" type="xs:string"/>
+  <xs:element name="srcDW" type="xs:string"/>
+  <xs:element name="variante" type="xs:string"/>
+  <xs:element name="bloc_dérivés">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="dérivé"/>
+        <xs:element minOccurs="0" ref="lexème_source_expression_dérivée"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="dérivé" type="xs:string"/>
+  <xs:element name="bloc_métainformation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:choice minOccurs="0">
+          <xs:element ref="auteur"/>
+          <xs:element ref="statut_fiche"/>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="commentaire"/>
+        <xs:element minOccurs="0" ref="auteur_statut_fiche"/>
+        <xs:element ref="date_dernière_modification"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="statut_fiche" type="xs:NCName"/>
+  <xs:element name="date_dernière_modification" type="xs:string"/>
+  <xs:element name="définition" type="xs:string"/>
+  <xs:element name="homonyme" type="xs:string"/>
+  <xs:element name="synonyme" type="xs:string"/>
+  <xs:element name="bloc_traduction">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="traduction_française"/>
+        <xs:element minOccurs="0" ref="catégorie_grammaticale_traduction_française_mot_vedette"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="traduction_française" type="xs:string"/>
+  <xs:element name="exemple">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="phrase_illustration"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="traduction_française_phrase_illustration"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="phrase_illustration" type="xs:string"/>
+  <xs:element name="traduction_française_phrase_illustration" type="xs:string"/>
+  <xs:element name="catégorie_grammaticale_traduction_française_mot_vedette" type="xs:string"/>
+  <xs:element name="lexème_source_expression_dérivée" type="xs:string"/>
+  <xs:element name="auteur" type="xs:NCName"/>
+  <xs:element name="commentaire" type="xs:string"/>
+  <xs:element name="auteur_statut_fiche" type="xs:NCName"/>
+</xs:schema>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="volume">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="article"/>
+      </xs:sequence>
+      <xs:attribute name="creation-date" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="article">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="bloc_forme"/>
+        <xs:element ref="catégorie_grammaticale"/>
+        <xs:element ref="classe_nominale"/>
+        <xs:element ref="bloc_sens"/>
+        <xs:element ref="sources"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bloc_forme">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="mot_vedette"/>
+        <xs:element ref="source_mot_vedette"/>
+        <xs:element ref="lexème_source"/>
+        <xs:element ref="variante"/>
+        <xs:element ref="prononciation"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mot_vedette" type="xs:string"/>
+  <xs:element name="source_mot_vedette">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="lexème_source">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="variante">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="prononciation">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="catégorie_grammaticale" type="xs:string"/>
+  <xs:element name="classe_nominale">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="bloc_sens">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="sens"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sens">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="définition"/>
+        <xs:element ref="source_définition"/>
+        <xs:element ref="bloc_traduction"/>
+        <xs:element ref="exemples"/>
+        <xs:element ref="synonyme"/>
+        <xs:element ref="homonyme"/>
+        <xs:element ref="note_usage"/>
+        <xs:element ref="bloc_dérivés"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="définition">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="source_définition">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="bloc_traduction">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="traduction_française"/>
+        <xs:element ref="catégorie_grammaticale_traduction_française_mot_vedette"/>
+        <xs:element ref="lien_traduction"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="traduction_française">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="catégorie_grammaticale_traduction_française_mot_vedette">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="lien_traduction">
+    <xs:complexType>
+      <xs:attribute name="id" use="required"/>
+      <xs:attribute name="lang" use="required" type="xs:NCName"/>
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+      <xs:attribute name="volume" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="exemples">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="exemple"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="exemple">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="exemple-srr"/>
+        <xs:element ref="exemple-fra"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="exemple-srr">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="exemple-fra">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="synonyme">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="homonyme">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="note_usage">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="bloc_dérivés">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="expression_dérivée"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="expression_dérivée">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="sources">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="entree-source"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="entree-source">
+    <xs:complexType>
+      <xs:attribute name="provenance" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
