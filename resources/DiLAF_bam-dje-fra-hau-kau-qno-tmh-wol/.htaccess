@@ -1,3 +1,0 @@
-<LimitExcept GET HEAD OPTIONS POST PROPFIND>
-        Require user mangeot enguehard 
-</LimitExcept>

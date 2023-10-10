@@ -1,6 +1,0 @@
-Début de l'analyse du dictionnaire
-Fin de l'analyse du dictionnaire
-Début de l'écriture du résultat
-Use of uninitialized value in concatenation (.) or string at /opt/www/html-ssl/ipolex/pl/dictionary_analysis.pl line 164.
-Use of uninitialized value in concatenation (.) or string at /opt/www/html-ssl/ipolex/pl/dictionary_analysis.pl line 198.
-Fin de l'écriture du résultat
