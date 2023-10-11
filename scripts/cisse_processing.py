@@ -6,7 +6,7 @@ tree = ET.parse("../resources/Cisse_fra-wol/cisse_prep.xml")
 root = tree.getroot()
 
 # Create a CSV file for writing
-with open("../Cisse_fra.csv", "w", newline='') as csvfile:
+with open("../generated_csv/cisse_lex.csv", "w", newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
 
     # Write the header row in the CSV file
