@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="dilaf">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="source"/>
+        <xs:element maxOccurs="unbounded" ref="dog"/>
+      </xs:sequence>
+      <xs:attribute name="datecreation" use="required"/>
+      <xs:attribute name="src" use="required" type="xs:NCName"/>
+      <xs:attribute name="trg" use="required" type="xs:NCName"/>
+      <xs:attribute name="version" use="required" type="xs:decimal"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="source">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ref"/>
+        <xs:element ref="titre"/>
+        <xs:element ref="auteurs"/>
+        <xs:element ref="avertissement"/>
+        <xs:element ref="license"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ref" type="xs:string"/>
+  <xs:element name="titre" type="xs:string"/>
+  <xs:element name="auteurs" type="xs:string"/>
+  <xs:element name="avertissement" type="xs:string"/>
+  <xs:element name="license">
+    <xs:complexType>
+      <xs:attribute name="lien" use="required" type="xs:anyURI"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="dog">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="mbirmi"/>
+        <xs:element minOccurs="0" ref="maas"/>
+        <xs:element ref="tëggin"/>
+        <xs:element minOccurs="0" ref="xeet"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="cosaan"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="weneen_waxin"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="sayu_tekki"/>
+      </xs:sequence>
+      <xs:attribute name="màndarga" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mbirmi" type="xs:string"/>
+  <xs:element name="weneen_waxin">
+    <xs:complexType mixed="true">
+      <xs:attribute name="jokkukaay" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sayu_tekki">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:choice>
+          <xs:element ref="cosaan"/>
+          <xs:element minOccurs="0" maxOccurs="unbounded" ref="tool"/>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="safaan"/>
+        <xs:element minOccurs="0" ref="tekki"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="misaal"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="guddalinu_méngale"/>
+        <xs:element minOccurs="0" ref="léebu"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="moomeelu_làkk"/>
+        <xs:element minOccurs="0" ref="bokk_tekki"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="xoolal"/>
+      </xs:sequence>
+      <xs:attribute name="màndarga" use="required" type="xs:NCName"/>
+      <xs:attribute name="nim" type="xs:integer"/>
+      <xs:attribute name="waxin" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="tool">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nettalin"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="safaan">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NCName">
+          <xs:attribute name="jokkukaay" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="guddalinu_méngale">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="bind"/>
+        <xs:element minOccurs="0" ref="maas"/>
+        <xs:element minOccurs="0" ref="tëggin"/>
+        <xs:element minOccurs="0" ref="xeet"/>
+        <xs:element minOccurs="0" ref="tekki"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="misaal"/>
+      </xs:sequence>
+      <xs:attribute name="màndarga" use="required" type="xs:NCName"/>
+      <xs:attribute name="nii_mu_warloo"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="moomeelu_làkk">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="bind"/>
+        <xs:choice minOccurs="0">
+          <xs:element ref="tekki"/>
+          <xs:element ref="xeet"/>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="misaal"/>
+        <xs:element minOccurs="0" ref="léebu"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bokk_tekki">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NCName">
+          <xs:attribute name="jokkukaay" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="xoolal">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NCName">
+          <xs:attribute name="jokkukaay" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="maas" type="xs:string"/>
+  <xs:element name="tëggin" type="xs:string"/>
+  <xs:element name="xeet">
+    <xs:complexType mixed="true">
+      <xs:attribute name="gàttal" use="required"/>
+      <xs:attribute name="jëfandiko"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cosaan" type="xs:NCName"/>
+  <xs:element name="nettalin">
+    <xs:complexType mixed="true">
+      <xs:attribute name="làkk" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="tekki">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nettalin"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="misaal">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="nettalin"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bind" type="xs:string"/>
+  <xs:element name="léebu">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="bind"/>
+        <xs:element minOccurs="0" ref="firi"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="firi">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nettalinu_tekki"/>
+        <xs:element ref="faramfacce"/>
+      </xs:sequence>
+      <xs:attribute name="làkk" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nettalinu_tekki" type="xs:string"/>
+  <xs:element name="faramfacce" type="xs:string"/>
+</xs:schema>

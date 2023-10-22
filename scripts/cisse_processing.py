@@ -1,10 +1,14 @@
-# import xml.etree.ElementTree as ET
-# import csv
-#
-# # Parse the XML file
-# tree = ET.parse("../resources/Cisse_fra-wol/cisse_prep.xml")
-# root = tree.getroot()
-#
+import xml.etree.ElementTree as ET
+import csv
+
+"""
+Lexicon to csv file
+"""
+
+# Parse the XML file
+tree = ET.parse("../resources/Cisse/cisse_prep.xml")
+root = tree.getroot()
+
 # # Create a CSV file for writing
 # with open("../generated_csv/cisse_lexicon.csv", "w", newline='') as csvfile:
 #     csvwriter = csv.writer(csvfile)
@@ -45,11 +49,9 @@
 # print("CSV file has been generated.")
 #
 
-import xml.etree.ElementTree as ET
-
-# Parse the XML file
-tree = ET.parse("../resources/Cisse_fra-wol/cisse_prep.xml")
-root = tree.getroot()
+"""
+Lexicon to txt file
+"""
 
 # Create a text file for writing
 with open("../generated_txt/cisse_lexicon.txt", "w", encoding="utf-8") as txtfile:
